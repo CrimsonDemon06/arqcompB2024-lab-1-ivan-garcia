@@ -1,6 +1,6 @@
 # arqcompB2024-lab-1-ivan-garcia
 
-# Currículum de [Nombre Completo]
+# Currículum de [Iván Daniel García Sosa]
 
 ## Información Personal
 - **Nombre Completo**: [Iván Daniel García Sosa]
